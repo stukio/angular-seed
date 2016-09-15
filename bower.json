@@ -1,0 +1,16 @@
+{
+  "name": "seed",
+  "version": "0.0.1",
+  "description": "Seed",
+  "authors": "Codeplace Team",
+  "keywords": [],
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.8",
+  },
+  "overrides": {
+    "animo": {
+      "main": "*.min.{js,css}"
+    }
+  }
+}
